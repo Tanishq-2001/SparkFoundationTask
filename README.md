@@ -10,4 +10,4 @@ This project is coded using `HTML`, `CSS`, `Bootstrap` and `jQuery`
 LinkedIn : https://www.linkedin.com/in/tanishq-mahajan-b06997208/
 
 
-Github : https://github.com/Tanishq-2001
+Github : https://github.com/Tanishq-2001/SparkFoundationTask
